@@ -1,0 +1,1 @@
+sonar.projectKey=sqp_8b279c2bf723d81aeafa9f2ca3ee41d9dbfe5d44
